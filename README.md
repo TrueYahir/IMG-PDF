@@ -27,3 +27,6 @@ python main.py
 1. Click the **Browse** button next to "Select Images Folder" to choose the directory with your manga images.
 2. Click the **Browse** button next to "Select Output PDF" to choose the destination and name of the resulting PDF.
 3. Click **Convert to PDF** and wait for the process to finish.
+
+
+[![Último Release](https://github.com/TrueYahir/IMG-PDF/releases/tag/v1.0)](https://github.com/TrueYahir/IMG-PDF/releases/tag/v1.0)
