@@ -29,4 +29,4 @@ python main.py
 3. Click **Convert to PDF** and wait for the process to finish.
 
 
-[[Last](https://github.com/TrueYahir/IMG-PDF/releases/tag/v1.0)](https://github.com/TrueYahir/IMG-PDF/releases/tag/v1.0)
+[![Last Release](https://github.com/TrueYahir/IMG-PDF/releases/tag/v1.0)](https://github.com/TrueYahir/IMG-PDF/releases/tag/v1.0)
